@@ -39,7 +39,8 @@ end
 local frameworks = {
     'standalone',
     'esx',
-    'qb',
+    'qbox',
+    'qb'
 }
 
 local function IsFrameworkCompatible(invName)
